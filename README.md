@@ -10,3 +10,5 @@ Características do site:
 -Aba dos participantes
 -Descrição Economia Azul
 -Descrição da Solução
+-area do participante
+-projeto de front end
