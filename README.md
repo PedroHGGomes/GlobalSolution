@@ -8,3 +8,5 @@ Luiz Felipe // RM555197
 Características do site:
 -Aba de Login
 -Aba dos participantes
+-Descrição Economia Azul
+-Descrição da Solução
