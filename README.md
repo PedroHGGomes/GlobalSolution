@@ -1,6 +1,5 @@
 # GlobalSolution
-Ocean Helper
-Projeto inspirado na Economia Azul
+Ocean Helper<br>
 Grupo Composto por:<br>
 Pedro Henrique Gonçalves Gomes // RM553907<br>
 João Vasques // RM552936<br>
