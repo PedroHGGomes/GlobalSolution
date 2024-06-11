@@ -1,14 +1,14 @@
 # GlobalSolution
 Ocean Helper
 Projeto inspirado na Economia Azul
-Grupo Composto por:
-Pedro Henrique Gonçalves Gomes // RM553907
-João Vasques // RM552936
-Luiz Felipe // RM555197
-Características do site:
--Aba de Login
--Aba dos participantes
--Descrição Economia Azul
--Descrição da Solução
--area do participante
--projeto de front end
+Grupo Composto por:<br>
+Pedro Henrique Gonçalves Gomes // RM553907<br>
+João Vasques // RM552936<br>
+Luiz Felipe // RM555197<br>
+Características do site:<br>
+-Aba de Login<br>
+-Aba dos participantes<br>
+-Descrição Economia Azul<br>
+-Descrição da Solução<br>
+-area do participante<br>
+-projeto de front end<br>
